@@ -1,4 +1,4 @@
- { [
+ 
      { 
             "id": 2,
             "tag_type": {
@@ -19,5 +19,4 @@
             "value": "BOM Analysis",
             "tag_description": null
         }
- ]
-}
+ 
