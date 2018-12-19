@@ -1,6 +1,5 @@
-{
-    [
-        {
+ { [
+     { 
             "id": 2,
             "tag_type": {
                 "id": 1,
@@ -19,76 +18,6 @@
             },
             "value": "BOM Analysis",
             "tag_description": null
-        },
-        {
-            "id": 6,
-            "tag_type": {
-                "id": 4,
-                "type": "language",
-                "icon_class": "language"
-            },
-            "value": "Ionic",
-            "tag_description": "Ionic Framework"
-        },
-        {
-            "id": 8,
-            "tag_type": {
-                "id": 4,
-                "type": "language",
-                "icon_class": "language"
-            },
-            "value": "Angular 7",
-            "tag_description": "Angular 7"
-        },
-        {
-            "id": 7,
-            "tag_type": {
-                "id": 4,
-                "type": "language",
-                "icon_class": "language"
-            },
-            "value": "Loadash",
-            "tag_description": "structuring"
-        },
-        {
-            "id": 3,
-            "tag_type": {
-                "id": 2,
-                "type": "Platform",
-                "icon_class": null
-            },
-            "value": "Excel",
-            "tag_description": null
-        },
-        {
-            "id": 9,
-            "tag_type": {
-                "id": 2,
-                "type": "Platform",
-                "icon_class": null
-            },
-            "value": "Windows",
-            "tag_description": "Windows"
-        },
-        {
-            "id": 5,
-            "tag_type": {
-                "id": 2,
-                "type": "Platform",
-                "icon_class": null
-            },
-            "value": "Angular",
-            "tag_description": "Angular 6"
-        },
-        {
-            "id": 4,
-            "tag_type": {
-                "id": 2,
-                "type": "Platform",
-                "icon_class": null
-            },
-            "value": "Python",
-            "tag_description": null
         }
-    ]
+ ]
 }
